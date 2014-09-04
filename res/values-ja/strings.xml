@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cardboardサンプル</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">設定</string>
+    <string name="message_pull_the_magnet">ターゲットが見つかりましたら、マグネットを下に引いてください。</string>
+    <string name="message_found_it">見つかりました! 次のターゲットを見つけましょう。\n得点 = </string>
+    <string name="message_look_around">まわりを見渡して、ターゲットを見つけましょう。</string>
+
+</resources>
